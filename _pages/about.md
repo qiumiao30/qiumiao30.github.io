@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiucheng Miao's personal websites"
+title: "Qiucheng Miao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
